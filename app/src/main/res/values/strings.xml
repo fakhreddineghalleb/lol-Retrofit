@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lol retrofit</string>
+    <string name="mustNotBeEmpty">Must not be empty !</string>
+
+</resources>
